@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Competitive Programming Helper extension
+.cph/
+
+# VS Code
+.vscode/
